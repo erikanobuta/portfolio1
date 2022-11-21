@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+    background-color: #ECE8DD;
+    font-family: 'Noto Sans JP', sans-serif;
+   
+	
+}
+
+main img{
+   
+    margin-right: 60px;	
+   
+}
+.c{
+    justify-content: flex-start;    
+}
+.ca{
+    display: flex;
+	
+}
+
+.a img{
+    max-height: 100%;
+    vertical-align: bottom;
+    height: auto;
+    margin-top: 0px;
+    width: 25%;
+    overflow: hidden;
+    text-align: left;
+}
+.b img{
+    max-height: 100%;
+    vertical-align: bottom;
+    height: auto;
+    margin-top: 0px;
+    width: 25%;
+    overflow: hidden;
+    text-align: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.blocknav {
+    margin-top: 50px;
+    margin-bottom: 150px;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.blocknav ul li{
+    margin-left: 0px;
+    font-size: 30px;
+    
+}
+nav li{
+    font-style: 1.4em;
+    margin-left: 25px;
+}
+li{
+    display: list-item;
+	margin-right: 25px;	
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    margin-right: 25px;
+    justify-content: flex-end;
+}
+main{
+    text-align: center;
+}
+.a {
+    text-align: center;
+    margin-bottom: 100px;
+}
+.b {
+    margin-bottom: 100px;
+}
+p{
+    min-width: 40px;
+    line-height: 3em;
+    margin-top: 30px;
+    width: 50%
+
+}
+footer{
+    margin-bottom: 200px;
+    background-color: #504E4E;
+}
+

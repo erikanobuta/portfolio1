@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+    background-color: #ECE8DD;
+    font-family: 'Noto Sans JP', sans-serif;
+	
+}
+
+img{
+    border-radius: 10px;
+    width: 50%;
+}
+.blocknav {
+    margin-top: 50px;
+    margin-bottom: 150px;
+    text-decoration: none;	
+}
+
+
+.blocknav ul li{
+    margin-left: 0px;
+    font-size: 30px;
+    
+}
+nav li{
+    font-style: 1.4em;
+    margin-left: 25px;
+}
+li{
+    display: list-item;
+	margin-right: 25px;	
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    margin-right: 25px;
+    justify-content: flex-end;
+}
+.aa{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 250px;
+}
+.b  {  width: 30%;
+    margin-left: 50px;}
+    

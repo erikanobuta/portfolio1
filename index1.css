@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+  padding: 0%;
+  margin: 0%;
+}
+img {
+  max-width: 100%;
+  vertical-align: bottom;
+}
+header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  position: fixed;
+  top: 0px;
+}
+p {
+  color: #575656;
+}
+.nav {
+  display: flex;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+}
+li {
+  padding-right: 30px;
+}
+.img1 {
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.img2 {
+  border-radius: 100px;
+}
+.main {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 150px;
+}
+.bicycle {
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.about {
+  text-decoration: underline;
+  text-align: center;
+  margin-bottom: 100px;
+}
+.man {
+  display: flex;
+  justify-content: center;
+}
+.tekisto {
+  margin-left: 50px;
+  margin-right: 50px;
+  justify-content: center;
+  flex-direction: column;
+  width: 400px;
+  margin-bottom: 150px;
+}
+.a {
+  padding-right: 30px;
+}
+.b {
+  padding-right: 30px;
+}
+.c {
+  padding-right: 30px;
+}
+.footer {
+  color: #565656;
+  font-style: 30px;
+  text-align: center;
+}
